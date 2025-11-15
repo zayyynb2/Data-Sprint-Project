@@ -24,6 +24,7 @@ Olist acts as a platform that connects small and medium-sized businesses (SMBs) 
 
 ## sources
 [1] https://metait.ai/cases/olist/
+
 [2] https://www.cliffsnotes.com/study-notes/23388306#:~:text=Introduction%20Olist%20is%20a%20platform,to%20Olist's%20B2B%20marketing%20team
 MetaMeta
 Olist, the e-commerce unicorn
