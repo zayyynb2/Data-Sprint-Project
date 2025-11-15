@@ -22,14 +22,25 @@ e-commerce platform that connects small and medium-sized businesses to customers
 **ًWhat is the B2B model Olist implements?**
 Olist acts as a platform that connects small and medium-sized businesses (SMBs) with major Brazilian marketplaces such as Extra, Shoptime, Walmart, and Submarino. Olist helps these merchants manage sales across multiple platforms, streamline stock management, and handle order fulfillment, which is a significant pain point for SMBs with limited resources.[2]
 
+## Findings 
+1- Improve Delivery Speed
+
+2- Focus on Categories (Home & Furniture, Electorinc 7 Accsossries)
+
+3- Personlized Discount for One time Customers
+
+4- Loyalty Tier System:
+
+5-  Launch a points system for writing reviews
+
+6- Offer vouchers
+
 ## Trello Board
-## Link: https://trello.com/b/c0TyLfWZ/data-sprint
+ Link: https://trello.com/b/c0TyLfWZ/data-sprint
 <img width="1194" height="658" alt="Screenshot 2025-11-15 at 10 36 53 PM" src="https://github.com/user-attachments/assets/949a3ada-2a74-49ac-9d11-2a5eaf9cf203" />
 
 ## sources
 [1] https://metait.ai/cases/olist/
 
 [2] https://www.cliffsnotes.com/study-notes/23388306#:~:text=Introduction%20Olist%20is%20a%20platform,to%20Olist's%20B2B%20marketing%20team
-MetaMeta
-Olist, the e-commerce unicorn
-Explore how, in just six years, Olist became a unicorn, experiencing exponential growth through its partnership with Meta IT. (94 kB)
+
